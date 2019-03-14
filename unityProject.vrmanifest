@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.tracktesting.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\INC_VR\\Desktop\\TrackTesting\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "TrackTesting [Testing]"
+        }
+      }
+    }
+  ]
+}
